@@ -2,6 +2,6 @@
 x = 10
 
 if (x % 2 == 1):
-	print("número par")
+	print("número impar")
 else:
-	print("número ímpar")
+	print("número par")
