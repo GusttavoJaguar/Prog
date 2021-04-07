@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Calculadora
+Jogo de adivinhação
 Autor: Science - Soluções de T.I.
-Função: Fazer cálculos de soma, subtração, multiplicação e divisão
+Função: Adivinhar o número que a máquina escolheu
 
 """
 
